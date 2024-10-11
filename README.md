@@ -367,6 +367,9 @@
 ## 3.3 교육
 
 ### 3.3.1 교육 영상
+<div align="center">
+    <img src="./images/금융교육영상.gif" alt="금융교육영상" height=300px/>
+</div>
 
 
 ### 3.3.2 교육 퀴즈
