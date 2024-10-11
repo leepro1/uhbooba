@@ -379,7 +379,7 @@
 
 ### 3.3.4 미션 스탬프
 <div align="center">
-    <img src="./images/미션-스탬프_이수증.gif" alt="미션-스탬프_이수증" height=300px/>
+    <img src="./images/미션-스탬프_이수증-발급.gif" alt="미션-스탬프_이수증-발급" height=300px/>
 </div>
 
 ---
