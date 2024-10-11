@@ -20,11 +20,13 @@
 5. [**차별점**](#차별점)
 6. [**기대 효과**](#기대-효과)
 7. [**장기적 확장 방향**](#장기적-확장-방향)
-8. [**기술 스택**](#기술-스택)
-9. [**프로젝트 구성도**](#프로젝트-구성도)
-10. [**시연 영상**](#시연-영상)
-11. [**개발환경 빌드 및 실행 방법**](#개발환경-빌드-및-실행-방법)
-12. [**API 명세**](#api-명세)
+8. [**소개 영상**](#소개-영상)
+9. [**기술 스택**](#기술-스택)
+10. [**프로젝트 구성도**](#프로젝트-구성도)
+11. [**시연 영상**](#시연-영상)
+11. [**포팅 메뉴얼**](#포팅-메뉴얼)
+12. [**개발환경 빌드 및 실행 방법**](#개발환경-빌드-및-실행-방법)
+13. [**API 명세**](#api-명세)
 
 ---
 
@@ -149,6 +151,12 @@
     - 사용자의 금융 활동 데이터를 분석하여 개인 맞춤형 금융 교육 및 서비스 제공
 - **다양한 사용자 대상 확장**
     - 시니어뿐만 아니라 청소년, 초보 금융 사용자 등 다양한 금융 소외 계층에게도 금융 교육 제공
+
+---
+
+
+## 소개 영상
+[![Watch the video](https://img.youtube.com/vi/비디오ID/0.jpg)](https://s3.youm.me/uhbooba/UCC.mp4)
 
 ---
 
@@ -310,7 +318,9 @@
 
 
 ### 3.1.1 로그인 ⭐
-
+<div align="center">
+    <img src="./images/어부바-로그인.gif" alt="어부바-로그인" height=300px/>
+</div>
 
 
 ## 3.2 모바일 뱅킹
@@ -320,8 +330,14 @@
 **1. 계좌 생성** ⭐
 
 **2. 계좌 입금**
+<div align="center">
+    <img src="./images/계좌입금.gif" alt="계좌입금" height=300px/>
+</div>
 
 **3. 계좌 이체** ⭐
+<div align="center">
+    <img src="./images/계좌-이체_확인.gif" alt="계좌-이체_확인" height=300px/>
+</div>
 
 ### 3.2.2 예금
 
@@ -358,26 +374,15 @@
 
 ### 3.3.3 금융 사기 예방
 
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/f4ff164f-f5d9-49ae-97c7-a7851e5b6452/image.png?table=block&id=0d42865c-48b7-464b-89e1-068e589f7cc2&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=-NpmuUpPnNM9wD50m0AV4IDrQGMmo3we4oNW8QaTJJM&downloadName=image.png)
-
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/eb9bb0f4-c346-4f3c-a0f9-02e59c97babc/image.png?table=block&id=27611929-bc2e-4edc-87ba-7e8b9f38e870&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=4k1NVTz9KYs-Qq4iU7_WoFqty-Cd2WeAR52v8Ki5QjI&downloadName=image.png)
-
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/858db488-3054-4f43-8c21-fff464faea95/image.png?table=block&id=d1396f41-d475-4d6d-8db5-c32f7e2529a8&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=ziKsX4k5JRmJSzIXppKwdctn8ukz6qLSNIzguJB03DQ&downloadName=image.png)
-
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/0b0eb566-1457-40fe-9ec4-05d7042a38f8/image.png?table=block&id=49a83699-e214-4994-81bd-65956e069022&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=4yywGSUtoyhvJGKo_8HweAMCPjh0WYersQrlSZbsmbY&downloadName=image.png)
-
-### 3.3.4 이수증
-
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/82aebb47-7402-468e-bfec-fd42ae8ce2f0/image.png?table=block&id=10c353f8-c0fe-40ee-875b-658bbb082bc9&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=Zh4U3iaHDNwlzaARvNWZcZx0h8YnVLYIcxmkxGRAoVY&downloadName=image.png)
-
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/4913ea84-272c-436e-b693-fd64ff9b870a/image.png?table=block&id=2c33fc34-b21d-4d4b-bf72-c8ce0fa00402&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=wYqNNlPXSJPxxZNkaiNQJDXW0dZEdsCG9PXexFKLOII&downloadName=image.png)
-
-![image.png](https://file.notion.so/f/f/3c3deefb-8fc0-4653-b74a-37ff7e05a156/0e2a639c-eea1-463f-9175-8fa470f43275/image.png?table=block&id=f4aeafd0-53aa-45dc-a11b-db22f826cfec&spaceId=3c3deefb-8fc0-4653-b74a-37ff7e05a156&expirationTimestamp=1728648000000&signature=eKnJM2fH28SiWnTBX96QnnViXS2QF9SI7hE4ixxYA1Y&downloadName=image.png)
-
+### 3.3.4 미션 스탬프
 <div align="center">
-    <img src="./images/판매자재고관리.gif" alt="판매자재고관리" height=300px/>
+    <img src="./images/미션-스탬프_이수증.gif" alt="미션-스탬프_이수증" height=300px/>
 </div>
 
+---
+
+## 포팅 메뉴얼
+[포팅 메뉴얼](./exec/11기_특화PJT_포팅메뉴얼_A402.pdf)
 
 
 ---
