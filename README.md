@@ -219,12 +219,12 @@
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-D71F00.svg?&style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![ollama](https://img.shields.io/badge/ollama-000000.svg?&style=for-the-badge&logo=ollama&logoColor=white)
 
 
 ### **외부 API**
 ![SSAFY](https://img.shields.io/badge/SSAFY_금융망_API-19abdc.svg?&style=for-the-badge&logo=SSAFY&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white)
-![ollama](https://img.shields.io/badge/ollama-000000.svg?&style=for-the-badge&logo=ollama&logoColor=white)
 ![googlecloud](https://img.shields.io/badge/googlecloud_TTS-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)
 ![simple_SMS](https://img.shields.io/badge/simple_SMS-1299d0.svg?&style=for-the-badge&logo=simple_SMS&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white)
@@ -356,6 +356,9 @@
 ### 3.2.4 환전
 
 **1. 환전** ⭐
+<div align="center">
+    <img src="./images/환전.gif" alt="환전" height=300px/>
+</div>
 
 ### 3.2.5 공과금
 
@@ -376,6 +379,9 @@
 
 
 ### 3.3.3 금융 사기 예방
+<div align="center">
+    <img src="./images/금융사기예방.gif" alt="금융사기예방" height=300px/>
+</div>
 
 ### 3.3.4 미션 스탬프
 <div align="center">
